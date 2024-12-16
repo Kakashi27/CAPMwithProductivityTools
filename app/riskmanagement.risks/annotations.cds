@@ -143,7 +143,7 @@ annotate service.Risks with {
                 },
             ],
     },
-        Common.ValueListWithFixedValues : true,
+        Common.ValueListWithFixedValues : false,
     )
 };
 
